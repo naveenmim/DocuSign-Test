@@ -1,0 +1,10 @@
+{
+	"project-uipath-dev-env-name": "dev",
+	"project-uipath-cert-env-name": "test",
+	
+	"project-uipath-folder-name": "Default",
+
+	"service-now-test-app-name": "",
+	"service-now-prod-app-name": "",
+	"service-now-cmdb-table-type": "bot"
+}
